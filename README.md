@@ -1,10 +1,11 @@
 # readSIsaR_BatchResults
  Analysis of SIsaR batches
 
- SIsaR is at [https://terna.to.it/simul/SIsaR.html](https://terna.to.it/simul/SIsaR.html)
+SIsaR is at [https://terna.to.it/simul/SIsaR.html](https://terna.to.it/simul/SIsaR.html)
 
+You can run the IPython codes at [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/terna/readSIsaR_BatchResults/master)
 
-The analyzer (the related data are in folder results):
+The analyzers (the related data are in folder results):
 
 Epidemics without containment measures
 
