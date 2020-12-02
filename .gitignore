@@ -16,3 +16,4 @@
 .ipynb_checkpoints/mdOutput-checkpoint.ipynb
 .ipynb_checkpoints/newTool-checkpoint.ipynb
 .ipynb_checkpoints/readRunResults1k_basicControl_schoolOpenSeptNewControlOctFac_plusHMlog-checkpoint.ipynb
+*.ipynb
