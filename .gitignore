@@ -21,3 +21,4 @@
 .ipynb_checkpoints/readRunResults1kStableSeeds_basicControl_schoolOpenSeptNewControlOctFac_plusHMlo-checkpoint.ipynb
 .ipynb_checkpoints/readRunResults1kStableSeeds_noControl_plusHMlog-checkpoint.ipynb
 .ipynb_checkpoints/merge-checkpoint.ipynb
+*.ipynb
