@@ -9,36 +9,16 @@ The analyzers (the related data are in folder results):
 
 Epidemics without containment measures
 
-    readRunResults1k_noControl_plusHM.ipynb
+    readRunResults1kStableSeedsCPoints_noControl_ChangingWorld_plusHMlog.ipynb
 
-Epidemics with basic non-pharmaceutical containment measures, no school in September 2020
+Epidemics with basic non-pharmaceutical containment measures from March, school open in September 2020
 
-    readRunResults1k_withControl_plusHM.ipynb
+    readRunResults1kStableSeedsCPoints_basicControlB_schoolOpenSeptChangingWorld_plusHMlog.ipynb
 
-Epidemics with basic non-pharmaceutical containment measures, school open in September 2020
+Epidemics with basic non-pharmaceutical containment measures from March, school open in September 2020 & new seeds of contagion in September 2020, without new containment measures
 
-    readRunResults1k_basicControl_schoolOpenSept_plusHM.ipynb
+    readRunResults1kStableSeedsCPoints_basicControlB_schoolOpenSeptChangingWorldNewStart_plusHMlog.ipynb
 
-Epidemics with immediate stop of fragile workers, non-pharmaceutical containment measures, no school in September 2020
+Epidemics with basic non-pharmaceutical containment measures from March, school open in September 2020 & new seeds of contagion in September 2020, with new non-pharmaceutical  containment measures in Oct
 
-    readRunResults1k_with_sFW_at20_plusHM.ipynb
-
-Epidemics with absolute isolation of nursing homes, non-pharmaceutical containment measures, no school in September 2020
-
-    readRunResults1k_with_NH_OP_BZ_at20_plusHM.ipynb
-
-Epidemics stopping fragile people, non-pharmaceutical containment measures, no school in September 2020
-
-    readRunResults1k_with_Frag_at20_plusHM.ipynb
-
-Epidemics excluding fragility of any type, non-pharmaceutical containment measures, no school in September 2020
-
-    readRunResults1k_with_NoAllFrag_at20_plusHM.ipynb
-
-Epidemics excluding fragility of any type, non-pharmaceutical containment measures, factories open, no school in September 2020
-
-    readRunResults1k_with_NoAllFrag_openFacs_at20_plusHM.ipynb
-
-Epidemics excluding fragility of any type, non-pharmaceutical containment measures, factories open, schools open in September 2020
-
-    readRunResults1k_with_NoAllFrag_openFacs_at20_openSchoolSep_plusHM.ipynb
+    readRunResults1kStableSeedsCPoints_basicControlB_schoolOpenSeptOctControlChangingWorldNewStart_plusHMlog.ipynb
