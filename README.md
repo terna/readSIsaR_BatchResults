@@ -1,5 +1,5 @@
 # readSIsaR_BatchResults
- Analysis of SIsaR batches
+Analysis of SIsaR batches
 
 SIsaR is at [https://terna.to.it/simul/SIsaR.html](https://terna.to.it/simul/SIsaR.html)
 
